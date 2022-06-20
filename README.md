@@ -1,8 +1,11 @@
 # 📌 Projeto Lesguardians - pausado/encerrado em 2018
 
+![repo](https://user-images.githubusercontent.com/107876267/174682174-65f67d09-88f2-4c89-a54f-fa83581ad92f.png)
+
 ✔️ Autor do projeto: Marcus (CEO, Community Leader e Manager)
 ✔️ Tecnologias utilizadas: HTML/HTML5, CSS, JAVASCRIPT, PHP, XML, SQL, MYSQL, PHPMYADMIN, JQUERY
 ✔️ Uma iniciativa de origem brasileira
+✔️ Agradecimentos (credits) Marakov, pela criação do novo logo do fórum
 
 Lesguardians foi uma das minhas ideias que resultou na criação de um fórum de programação voltado ao desenvolvimento de jogos, que teve início em 2017 e infelizmente foi pausado/encerrado em 2018, devido a falta de recursos financeiros. Nesse projeto eu visava desenvolver novas habilidades para programação de softwares em geral, mas o objetivo principal, era ajudar novos desenvolvedores independentes (indies), nos processos de criação de jogos eletrônicos independentes (indie games).
 
@@ -15,7 +18,7 @@ Lesguardians foi uma das minhas ideias que resultou na criação de um fórum de
 - Existia muitas categorias e áreas diversas para criação de tópicos e discussões relacionados a indústria de jogos e programação
 - Foi criado um tema único para o website do projeto, resultando em um layout simples, flexível e responsivo
 
-❌ Pontos de falha do projeto: na próxima atualização trarei mais detalhes
+❌ Pontos de falha do projeto: na próxima atualização trarei mais detalhes!
 
 💡 Objetivos do projeto:
 
@@ -31,4 +34,4 @@ Lesguardians foi uma das minhas ideias que resultou na criação de um fórum de
 - Viabilizar a criação de novos modelos de negócios que auxiliem no processo de desenvolvimento de jogos eletrônicos independentes
 - Desenvolver ideias e soluções inovadoras que despertem o interesse contínuo de investidores ao redor do mundo
 
-📷 Fotos: na próxima atualização trarei algumas fotos de como era o projeto
+📷 Fotos: na próxima atualização trarei algumas fotos de como era o projeto!
