@@ -11,8 +11,9 @@ Lesguardians foi uma das minhas ideias que resultou na criação de um fórum de
 - O forum foi desenvolvido utilizando um CMS (Sistema de gerenciamento de conteúdo) bastante conhecido lá fora, o Invision Power Board
 - Suporte básico a múltiplos idiomas: português brasileiro, inglês, francês e espanhol
 - Suporte avançado a múltiplos idiomas, atraves da integração do google tradutor ao website
-- Suporte a um sistema simples (manual) de monetização, onde eram oferecíamos sob demanda, espaços para publicidade e anúncios de terceiros em nosso website
+- Suporte a um sistema simples (manual) de monetização, onde oferecíamos sob demanda, espaços para publicidade e/ou anúncios de terceiros em nosso website
 - Muitas categorias e áreas diversas para criação de tópicos e discussões relacionados a indústria de jogos e programação
+- Modificando um outro tema premium para o Invision Power Board, do que eu havia comprado previamente, eu criei um tema único para o website do projeto, com um layout mais simples, flexível e responsivo
 
 💡 Objetivos do projeto:
 
@@ -27,3 +28,5 @@ Lesguardians foi uma das minhas ideias que resultou na criação de um fórum de
 - Agregar mais qualidade, agilidade, praticidade, acessibilidade e segurança ao mercado de tecnologia
 - Viabilizar a criação de novos modelos de negócios que auxiliem o desenvolvimento de jogos eletrônicos e videogames independentes
 - Desenvolver ideias e soluções inovadoras que despertem o interesse de investidores ao redor do mundo
+
+📷 Fotos: na próxima atualização trarei algumas fotos de como era o projeto
