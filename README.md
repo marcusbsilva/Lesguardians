@@ -37,9 +37,7 @@ Lesguardians foi uma das minhas ideias que resultou na criação de um fórum de
 📷 Fotos:
 
 ![img1](https://user-images.githubusercontent.com/107876267/174712748-bc5b6cb5-99a5-4be0-a9b7-9af3b91a571e.png)
-![img2](https://user-images.githubusercontent.com/107876267/174712758-5f9a821c-d3e0-4d3b-86c8-c90b9e5e282f.PNG)
-![img3](https://user-images.githubusercontent.com/107876267/174712778-5354ae63-68a5-4510-a11c-7488413327e4.png)
-![img4](https://user-images.githubusercontent.com/107876267/174712786-6172c159-171d-4dcc-92ca-14b1e694a8dd.png)
-![img5](https://user-images.githubusercontent.com/107876267/174712794-feb8e2c8-8220-43fb-8d99-34a12e0f144b.png)
-
-
+![img2](https://user-images.githubusercontent.com/107876267/174713110-58d3a33d-9078-4954-b3b5-7754236bd400.PNG)
+![img3](https://user-images.githubusercontent.com/107876267/174713114-7d178e05-b8b4-4fa4-96e0-f88500fbe782.png)
+![img4](https://user-images.githubusercontent.com/107876267/174713130-20c54c08-9360-4a00-8071-758833bb9c7f.png)
+![img5](https://user-images.githubusercontent.com/107876267/174713140-bd0bdd9d-a7c5-4df7-b52b-209ebc031969.png)
