@@ -34,4 +34,12 @@ Lesguardians foi uma das minhas ideias que resultou na criação de um fórum de
 - Viabilizar a criação de novos modelos de negócios que auxiliem no processo de desenvolvimento de jogos eletrônicos independentes
 - Desenvolver ideias e soluções inovadoras que despertem o interesse contínuo de investidores ao redor do mundo
 
-📷 Fotos: na próxima atualização trarei algumas fotos de como era o projeto!
+📷 Fotos:
+
+![img1](https://user-images.githubusercontent.com/107876267/174712748-bc5b6cb5-99a5-4be0-a9b7-9af3b91a571e.png)
+![img2](https://user-images.githubusercontent.com/107876267/174712758-5f9a821c-d3e0-4d3b-86c8-c90b9e5e282f.PNG)
+![img3](https://user-images.githubusercontent.com/107876267/174712778-5354ae63-68a5-4510-a11c-7488413327e4.png)
+![img4](https://user-images.githubusercontent.com/107876267/174712786-6172c159-171d-4dcc-92ca-14b1e694a8dd.png)
+![img5](https://user-images.githubusercontent.com/107876267/174712794-feb8e2c8-8220-43fb-8d99-34a12e0f144b.png)
+
+
