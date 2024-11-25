@@ -11,7 +11,7 @@
 
 Lesguardians foi uma das minhas ideias que resultou na criação de um fórum de programação voltado ao desenvolvimento de jogos, que teve início em 2017 e infelizmente foi pausado/encerrado em 2018, devido a falta de recursos financeiros. Nesse projeto eu visava desenvolver novas habilidades para programação de softwares em geral, mas o objetivo principal, era ajudar novos desenvolvedores independentes (indies), nos processos de criação de jogos eletrônicos independentes (indie games).
 
-🎯 Caracteristicas gerais
+# 🎯 Caracteristicas gerais
 
 1. O forum foi desenvolvido utilizando um CMS (Sistema de gerenciamento de conteúdo) bastante conhecido lá fora, o Invision Power Board.
 2. Suporte básico a múltiplos idiomas: português brasileiro, inglês, francês e espanhol.
@@ -20,14 +20,14 @@ Lesguardians foi uma das minhas ideias que resultou na criação de um fórum de
 5. Existia muitas categorias e áreas diversas para criação de tópicos e discussões relacionados a indústria de jogos e programação.
 6. Foi criado um tema único para o website do projeto, resultando em um layout simples, flexível e responsivo.
 
-💡 Objetivos do projeto
+# 💡 Objetivos do projeto
 
 1. Contribuir com o desenvolvimento de jogos independentes e as comunidades de software e aplicativos open-source.
 2. Expandir o conteúdo e/ou conhecimento atual sobre desenvolvimento de jogos eletrônicos e videogames, tornando tudo mais acessível, prático e lógico.
 3. Facilitar a entrada e a capacitação de novos talentos e artistas no mundo dos jogos, que em geral são: músicos, dubladores, compositores, programadores, streamers, jogadores e muitos outros profissionais.
 4. Expandir e desenvolver novos meios de comunicação, ferramentas e conteúdos com informações úteis, sempre buscando e priorizando a criação de novos caminhos que facilitam o direcionamento e/ou cooperação entre equipes de desenvolvedores, desde iniciantes até os mais experientes no mercado.
 
- 📑 Missões do projeto
+# 📑 Missões do projeto
 
 1. Participar ativamente do mercado e da Indústria global de produção de jogos eletrônicos e videogames.
 2. Agregar mais qualidade, agilidade, praticidade, acessibilidade e segurança ao mercado de tecnologia da informação.
@@ -90,14 +90,14 @@ Em resumo, essa experiência me mostrou que, por mais competente que alguém sej
 ![14](https://user-images.githubusercontent.com/107876267/174715988-ff13a73a-4147-4908-8085-98d6ada17558.png)
 ![15](https://user-images.githubusercontent.com/107876267/174715990-a227bdef-5411-472a-b57b-8e64065edb56.png)
 
-- Banners
+# Banners
 
 ![Event](https://user-images.githubusercontent.com/107876267/174719229-c337bcda-60f0-40c0-bb3e-0f764f3df0f0.png)
 ![banner_welcome](https://user-images.githubusercontent.com/107876267/174719248-1c197043-843e-4295-835b-c391b6bd3de5.png)
 ![Lesguardians_GG](https://user-images.githubusercontent.com/107876267/174716062-db3a2ede-d7f5-4aef-bc3b-c1035159bc71.png)
 ![255x205](https://user-images.githubusercontent.com/107876267/174719253-a9f8a85c-8329-4955-b3bb-d12425a15a46.png)
 
-- Os usuários também tinham mascotes que eram visíveis em seus perfis!
+# E os usuários também tinham mascotes que eram visíveis em seus perfis!
 
 ![adm](https://user-images.githubusercontent.com/107876267/174716927-f70d6b15-a3b9-448f-93c7-896f2487d566.png)
 ![members](https://user-images.githubusercontent.com/107876267/174716929-e8f7122e-d444-4021-8375-1ecdc143cd45.png)
