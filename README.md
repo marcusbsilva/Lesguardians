@@ -11,7 +11,7 @@
 
 Lesguardians foi uma das minhas ideias que resultou na criação de um fórum de programação voltado ao desenvolvimento de jogos, que teve início em 2017 e infelizmente foi pausado/encerrado em 2018, devido a falta de recursos financeiros. Nesse projeto eu visava desenvolver novas habilidades para programação de softwares em geral, mas o objetivo principal, era ajudar novos desenvolvedores independentes (indies), nos processos de criação de jogos eletrônicos independentes (indie games).
 
-# 🎯 Caracteristicas gerais
+🎯 Caracteristicas gerais
 
 1. O forum foi desenvolvido utilizando um CMS (Sistema de gerenciamento de conteúdo) bastante conhecido lá fora, o Invision Power Board.
 2. Suporte básico a múltiplos idiomas: português brasileiro, inglês, francês e espanhol.
@@ -20,14 +20,18 @@ Lesguardians foi uma das minhas ideias que resultou na criação de um fórum de
 5. Existia muitas categorias e áreas diversas para criação de tópicos e discussões relacionados a indústria de jogos e programação.
 6. Foi criado um tema único para o website do projeto, resultando em um layout simples, flexível e responsivo.
 
-# 💡 Objetivos do projeto
+_____________________________________________________________________________________________________________________________________________________________________________
+
+💡 Objetivos do projeto
 
 1. Contribuir com o desenvolvimento de jogos independentes e as comunidades de software e aplicativos open-source.
 2. Expandir o conteúdo e/ou conhecimento atual sobre desenvolvimento de jogos eletrônicos e videogames, tornando tudo mais acessível, prático e lógico.
 3. Facilitar a entrada e a capacitação de novos talentos e artistas no mundo dos jogos, que em geral são: músicos, dubladores, compositores, programadores, streamers, jogadores e muitos outros profissionais.
 4. Expandir e desenvolver novos meios de comunicação, ferramentas e conteúdos com informações úteis, sempre buscando e priorizando a criação de novos caminhos que facilitam o direcionamento e/ou cooperação entre equipes de desenvolvedores, desde iniciantes até os mais experientes no mercado.
 
-# 📑 Missões do projeto
+_____________________________________________________________________________________________________________________________________________________________________________
+
+📑 Missões do projeto
 
 1. Participar ativamente do mercado e da Indústria global de produção de jogos eletrônicos e videogames.
 2. Agregar mais qualidade, agilidade, praticidade, acessibilidade e segurança ao mercado de tecnologia da informação.
@@ -56,7 +60,11 @@ ________________________________________________________________________________
 6. A lição mais importante:
 > No final, percebi que sem uma equipe para dividir as responsabilidades, o projeto se tornou inviável. Aprendi uma dura lição, que não basta apenas ter inteligência ou capacidade técnica para lidar com grandes ideias sozinho. Para avançar e transformar uma visão em realidade, é essencial contar com o apoio e a colaboração de outras pessoas.
 
+_____________________________________________________________________________________________________________________________________________________________________________
+
 Em resumo, essa experiência me mostrou que, por mais competente que alguém seja, um projeto de grande porte exige cooperação. E que o sucesso não está apenas ligado a execução individual de um processo, mas na sinergia de habilidades e esforços de uma equipe que está comprometida em entregar resultados. Gerenciar um projeto de grande escala, como o desenvolvimento de um website com várias áreas específicas, foi uma experiência que trouxe diversos desafios e aprendizados.
+
+_____________________________________________________________________________________________________________________________________________________________________________
 
 # Revirando o Baú
 
