@@ -13,30 +13,50 @@ Lesguardians foi uma das minhas ideias que resultou na criação de um fórum de
 
 🎯 Caracteristicas gerais:
 
-- O forum foi desenvolvido utilizando um CMS (Sistema de gerenciamento de conteúdo) bastante conhecido lá fora, o Invision Power Board
-- Suporte básico a múltiplos idiomas: português brasileiro, inglês, francês e espanhol
-- Suporte avançado a múltiplos idiomas, atraves da integração do google tradutor ao website
-- Suporte a um sistema simples (manual) de monetização, onde oferecíamos sob demanda e avaliação, espaços para publicidade e/ou anúncios de terceiros em nosso website
-- Existia muitas categorias e áreas diversas para criação de tópicos e discussões relacionados a indústria de jogos e programação
-- Foi criado um tema único para o website do projeto, resultando em um layout simples, flexível e responsivo
+> O forum foi desenvolvido utilizando um CMS (Sistema de gerenciamento de conteúdo) bastante conhecido lá fora, o Invision Power Board
+> Suporte básico a múltiplos idiomas: português brasileiro, inglês, francês e espanhol
+> Suporte avançado a múltiplos idiomas, atraves da integração do google tradutor ao website
+> Suporte a um sistema simples (manual) de monetização, onde oferecíamos sob demanda e avaliação, espaços para publicidade e/ou anúncios de terceiros em nosso website
+> Existia muitas categorias e áreas diversas para criação de tópicos e discussões relacionados a indústria de jogos e programação
+> Foi criado um tema único para o website do projeto, resultando em um layout simples, flexível e responsivo
 
 💡 Objetivos do projeto:
 
-- Contribuir com o desenvolvimento de jogos independentes e as comunidades de software e aplicativos open-source
-- Expandir o conteúdo e/ou conhecimento atual sobre desenvolvimento de jogos eletrônicos e videogames, tornando tudo mais acessível, prático e lógico
-- Facilitar a entrada e a capacitação de novos talentos e artistas no mundo dos jogos, que em geral são: músicos, compositores, programadores, streamers, jogadores e muitos outros profissionais
-- Desenvolver novos meios de comunicação, ferramentas e conteúdos com informações úteis, sempre buscando e priorizando, a criação de novos caminhos que possibilitem o auxilio e/ou cooperação entre equipes de desenvolvedores, incluindo, dos mais novos iniciantes até os mais experientes no mercado
+> Contribuir com o desenvolvimento de jogos independentes e as comunidades de software e aplicativos open-source
+> Expandir o conteúdo e/ou conhecimento atual sobre desenvolvimento de jogos eletrônicos e videogames, tornando tudo mais acessível, prático e lógico
+> Facilitar a entrada e a capacitação de novos talentos e artistas no mundo dos jogos, que em geral são: músicos, dubladores, compositores, programadores, streamers, jogadores e muitos outros profissionais
+> Expandir e desenvolver novos meios de comunicação, ferramentas e conteúdos com informações úteis, sempre buscando e priorizando a criação de novos caminhos que facilitam o direcionamento e/ou cooperação entre equipes de desenvolvedores, desde iniciantes até os mais experientes no mercado
 
  📑 Missões do projeto:
 
-- Participar ativamente do mercado e da Indústria global de produção de jogos eletrônicos e videogames
-- Agregar mais qualidade, agilidade, praticidade, acessibilidade e segurança ao mercado de tecnologia da informação
-- Viabilizar a criação de novos modelos de negócios que auxiliem no processo de desenvolvimento de jogos eletrônicos independentes
-- Desenvolver ideias e soluções inovadoras que despertem o interesse contínuo de investidores ao redor do mundo
+> Participar ativamente do mercado e da Indústria global de produção de jogos eletrônicos e videogames
+> Agregar mais qualidade, agilidade, praticidade, acessibilidade e segurança ao mercado de tecnologia da informação
+> Viabilizar a criação de novos modelos de negócios que auxiliem no processo de desenvolvimento de jogos eletrônicos independentes
+> Desenvolver ideias e soluções inovadoras que despertem o interesse contínuo de investidores ao redor do mundo
 
-❌ Pontos de falha do projeto: 
+❌ Pontos de falha do projeto, as lições que foram aprendidas ao gerenciar um projeto complexo sozinho: 
 
-- Na próxima atualização trarei mais detalhes sobre os meus desafios ao desenvolver esse projeto!
+Gerenciar um projeto de grande escala, como o desenvolvimento de um website com várias áreas específicas, foi uma experiência que trouxe diversos desafios e aprendizados.
+
+> A complexidade na produção de conteúdo
+A organização do conteúdo para o website era um desafio constante. Por possuir várias áreas temáticas, a produção de artigos e materiais demandava um nível elevado de planejamento e execução, o que aumentava significativamente a complexidade do projeto.
+
+> Carga de trabalho excessiva
+Durante todo o desenvolvimento, eu era o único responsável pela criação dos artigos. Isso tornava o processo exaustivo, pois, além de gerenciar o frontend e realizar a manutenção técnica, também precisava dedicar tempo à escrita e à curadoria dos conteúdos.
+
+> As dificuldades no gerenciamento do projeto
+Por estar sozinho em todas as frentes, tive dificuldades em balancear tarefas técnicas e criativas. O sistema de monetização, por exemplo, acabou sendo relegado a um segundo plano, e hoje percebo que deveria ter priorizado aspectos mais estratégicos para o crescimento do projeto.
+
+> Os problemas de acessibilidade e a experiência do usuário
+A navegação entre as áreas do website era outro ponto crítico. Os usuários precisavam de muitos cliques para chegar às páginas desejadas, o que prejudicava a experiência geral e comprometia a acessibilidade.
+
+> O desinteresse e a falta de colaboração
+Encontrar pessoas interessadas em contribuir com o projeto era extremamente difícil. Apesar de a ideia parecer promissora na teoria, na prática, lidar com tudo sozinho era desafiador e, para mim, isso foi um pouco intimidante.
+
+> A lição mais importante
+No final, percebi que sem uma equipe para dividir as responsabilidades, o projeto se tornou inviável. Aprendi uma dura lição, que não basta apenas ter inteligência ou capacidade técnica para lidar com grandes ideias sozinho. Para avançar e transformar uma visão em realidade, é essencial contar com o apoio e a colaboração de outras pessoas.
+
+Em resumo, essa experiência me mostrou que, por mais competente que alguém seja, um projeto de grande porte exige cooperação. E que o sucesso não está apenas ligado a execução individual de um processo, mas na sinergia de habilidades e esforços de uma equipe que está comprometida em entregar resultados.
 
 # Revirando o Baú
 
