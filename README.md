@@ -34,6 +34,7 @@ Lesguardians foi uma das minhas ideias que resultou na criação de um fórum de
 3. Viabilizar a criação de novos modelos de negócios que auxiliem no processo de desenvolvimento de jogos eletrônicos independentes.
 4. Desenvolver ideias e soluções inovadoras que despertem o interesse contínuo de investidores ao redor do mundo.
 
+_____________________________________________________________________________________________________________________________________________________________________________
 
 ❌ Pontos de falha do projeto, e as lições que foram aprendidas ao gerenciar um projeto complexo sozinho!
 
