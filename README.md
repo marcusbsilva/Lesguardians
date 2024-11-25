@@ -66,21 +66,15 @@ Em resumo, essa experiência me mostrou que, por mais competente que alguém sej
 
 _____________________________________________________________________________________________________________________________________________________________________________
 
-# Revirando o Baú
-
-📷 Fotos do projeto:
+📷 Fotos do projeto & revirando o baú:
 
 ![index1](https://user-images.githubusercontent.com/107876267/174714605-c23ecbcf-2f0e-42de-894c-a56afe7b5f83.PNG)
 ![index2](https://user-images.githubusercontent.com/107876267/174714610-a028ffa2-32d8-4a7c-8da9-5de6de33def6.PNG)
 ![img1](https://user-images.githubusercontent.com/107876267/174712748-bc5b6cb5-99a5-4be0-a9b7-9af3b91a571e.png)
 ![img2](https://user-images.githubusercontent.com/107876267/174713110-58d3a33d-9078-4954-b3b5-7754236bd400.PNG)
-![img3](https://user-images.githubusercontent.com/107876267/174713114-7d178e05-b8b4-4fa4-96e0-f88500fbe782.png)
 ![img4](https://user-images.githubusercontent.com/107876267/174717673-441b4569-3837-4567-93a7-7baa5add4edd.png)
-![img5](https://user-images.githubusercontent.com/107876267/174718624-65260735-1b26-445c-a705-a966b0f58f17.png)
 
-# EXTRAS
-
-🎨 Aquí está também um set de algumas artes que foram criadas por mim para o projeto:
+🎨 EXTRAS - set de artes criadas por mim para o projeto, incluíndo mascotes:
 
 ![Lesguardians_vector](https://user-images.githubusercontent.com/107876267/174717100-e3804242-b3f3-40a1-a4f7-5d11abc6beb8.png)
 ![1](https://user-images.githubusercontent.com/107876267/174715965-292b4524-922b-4400-899c-64fa9e653e71.png)
@@ -97,22 +91,16 @@ ________________________________________________________________________________
 ![13](https://user-images.githubusercontent.com/107876267/174715985-dd59a16d-05fd-4504-9448-f186d3e6a8e1.png)
 ![14](https://user-images.githubusercontent.com/107876267/174715988-ff13a73a-4147-4908-8085-98d6ada17558.png)
 ![15](https://user-images.githubusercontent.com/107876267/174715990-a227bdef-5411-472a-b57b-8e64065edb56.png)
-
-# Banners
-
-![Event](https://user-images.githubusercontent.com/107876267/174719229-c337bcda-60f0-40c0-bb3e-0f764f3df0f0.png)
-![banner_welcome](https://user-images.githubusercontent.com/107876267/174719248-1c197043-843e-4295-835b-c391b6bd3de5.png)
-![Lesguardians_GG](https://user-images.githubusercontent.com/107876267/174716062-db3a2ede-d7f5-4aef-bc3b-c1035159bc71.png)
-![255x205](https://user-images.githubusercontent.com/107876267/174719253-a9f8a85c-8329-4955-b3bb-d12425a15a46.png)
-
-# E os usuários também tinham mascotes que eram visíveis em seus perfis!
-
 ![adm](https://user-images.githubusercontent.com/107876267/174716927-f70d6b15-a3b9-448f-93c7-896f2487d566.png)
 ![members](https://user-images.githubusercontent.com/107876267/174716929-e8f7122e-d444-4021-8375-1ecdc143cd45.png)
 ![moderators](https://user-images.githubusercontent.com/107876267/174716930-eb5c8e9d-ccff-4e35-92c0-2b97ee8cec54.png)
 ![vip](https://user-images.githubusercontent.com/107876267/174716931-c1b1a10a-50c7-4223-8e14-5bf7cb9dd308.png)
 
-- Artes gerais:
+Banners e artes gerais:
 
+![Event](https://user-images.githubusercontent.com/107876267/174719229-c337bcda-60f0-40c0-bb3e-0f764f3df0f0.png)
+![banner_welcome](https://user-images.githubusercontent.com/107876267/174719248-1c197043-843e-4295-835b-c391b6bd3de5.png)
+![Lesguardians_GG](https://user-images.githubusercontent.com/107876267/174716062-db3a2ede-d7f5-4aef-bc3b-c1035159bc71.png)
+![255x205](https://user-images.githubusercontent.com/107876267/174719253-a9f8a85c-8329-4955-b3bb-d12425a15a46.png)
 ![Welcome](https://user-images.githubusercontent.com/107876267/174718287-a92760ac-b1db-4eb3-86ac-084cc5c0592d.png)
 ![notice](https://user-images.githubusercontent.com/107876267/174718291-e2ca43af-06db-47a8-9dd6-b7bf1c89c842.png)
