@@ -40,10 +40,10 @@ Lesguardians foi uma das minhas ideias que resultou na criação de um fórum de
 > A organização do conteúdo para o website era um desafio constante. Por possuir várias áreas temáticas, a produção de artigos e materiais demandava um nível elevado de planejamento e execução, o que aumentava significativamente a complexidade do projeto.
 
 2. A carga de trabalho excessiva:
-> Durante todo o desenvolvimento, eu era o único responsável pela criação dos artigos. Isso tornava o processo exaustivo, pois, além de gerenciar o frontend e realizar a manutenção técnica, também precisava dedicar tempo à escrita e à curadoria dos conteúdos.
+> Durante todo o desenvolvimento, eu era o único responsável pela criação dos artigos. Isso tornava o processo exaustivo, pois, além de gerenciar o frontend e realizar a manutenção técnica, também precisava dedicar tempo à escrita, gerenciamento e manutenção dos conteúdos.
 
 3. As dificuldades no gerenciamento do projeto:
-> Por estar sozinho em todas as frentes, tive dificuldades em balancear tarefas técnicas e criativas. O sistema de monetização, por exemplo, acabou sendo relegado a um segundo plano, e hoje percebo que deveria ter priorizado aspectos mais estratégicos para o crescimento do projeto.
+> Por estar sozinho em todas as frentes, tive dificuldades em balancear tarefas técnicas e criativas. O sistema de monetização, por exemplo, acabou sendo colocado em segundo plano, e hoje percebo que deveria ter priorizado aspectos mais estratégicos para o crescimento do projeto.
 
 4. Os problemas de acessibilidade e a experiência do usuário:
 > A navegação entre as áreas do website era outro ponto crítico. Os usuários precisavam de muitos cliques para chegar às páginas desejadas, o que prejudicava a experiência geral e comprometia a acessibilidade.
