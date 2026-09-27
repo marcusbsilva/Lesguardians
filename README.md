@@ -13,10 +13,9 @@ um espaço acessível para programadores, artistas e desenvolvedores independent
 compartilharem conhecimento, discutirem tecnologia e colaborarem em torno 
 do desenvolvimento de jogos.
 
-O projeto foi construído sobre o **Invision Power Board (IP.Board)** e
-expandido através de customização de front-end, tecnologias web,
-recursos multilíngues, organização de comunidade, identidade visual
-própria e produção de conteúdo.
+O projeto foi construído sobre o **Invision Power Board (IP.Board)** com
+tecnologias web modernas, suporte a múltiplas línguas, identidade visual
+própria e produção independente de conteúdo.
 
 Fui responsável pelo gerenciamento do projeto, liderança da comunidade,
 manutenção técnica, organização de conteúdo, trabalho de front-end e
