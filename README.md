@@ -262,8 +262,8 @@ fórum.
 ## Retrospectiva
 
 O Lesguardians não se tornou a plataforma de longo prazo que eu havia
-imaginado originalmente, mas isso não torna o projeto um fracasso como
-experiência de aprendizado.
+imaginado originalmente, mas isso não torna o projeto um fracasso, mas
+sim uma grande oportunidade/experiência de aprendizado.
 
 Construí-lo e gerenciá-lo me colocou diante de problemas difíceis de
 compreender apenas pela teoria: crescimento de escopo, manutenção de
