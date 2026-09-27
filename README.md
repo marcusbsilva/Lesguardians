@@ -32,7 +32,7 @@ crescimento.
 
 ------------------------------------------------------------------------
 
-## Tecnologias
+## Tecnologias Utilizadas
 
 <p>
   <img alt="HTML5" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
