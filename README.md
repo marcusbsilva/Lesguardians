@@ -7,8 +7,8 @@
 
 ## Visão Geral
 
-**Lesguardians** Projeto independente de comunidade e fórum sobre programação, tecnologia
-e desenvolvimento de jogos. Criado em 2017 com o objetivo de construir 
+**Lesguardians** foi um projeto independente de comunidade e fórum sobre programação, tecnologia
+e desenvolvimento de jogos. Criado por mim em 2017 com o objetivo de construir 
 um espaço acessível para programadores, artistas e desenvolvedores independentes
 compartilharem conhecimento, discutirem tecnologia e colaborarem em torno 
 do desenvolvimento de jogos.
